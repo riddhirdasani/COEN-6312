@@ -16,7 +16,7 @@ public class Schedule {
 	/**
 	 * 
 	 */
-	public Bookings[] bookings;
+	public Booking[] bookings;
 
 	/**
 	 * 

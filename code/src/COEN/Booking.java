@@ -8,7 +8,7 @@ package COEN;
 /**
  * 
  */
-public class Bookings {
+public class Booking {
 	/**
 	 * 
 	 */

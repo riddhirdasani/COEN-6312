@@ -12,19 +12,19 @@ public class Customer extends User {
 	/**
 	 * 
 	 */
-	private Bookings bookingPlanned;
+	private Booking bookingPlanned;
 
 	/**
 	 * 
 	 * @return 
 	 */
-	public Bookings setListOfBooking() {
+	public Booking setListOfBooking() {
 	}
 
 	/**
 	 * 
 	 * @return 
 	 */
-	public Bookings getListOfBooking() {
+	public Booking getListOfBooking() {
 	}
 };

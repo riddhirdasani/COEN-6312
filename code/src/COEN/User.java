@@ -40,7 +40,7 @@ abstract class User {
 	/**
 	 * 
 	 */
-	public Bookings[] bookings;
+	public Booking[] bookings;
 
 	/**
 	 * 
