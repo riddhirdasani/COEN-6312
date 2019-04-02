@@ -16,23 +16,31 @@ abstract class User {
 	/**
 	 * 
 	 */
-	public String firstName;
+	private String firstName;
 	/**
 	 * 
 	 */
-	public String lastName;
+	private String lastName;
 	/**
 	 * 
 	 */
-	public String gender;
+	private String gender;
 	/**
 	 * 
 	 */
-	public String password;
+	private String password;
 	/**
 	 * 
 	 */
-	public String username;
+	private String username;
+	/**
+	 * 
+	 */
+	public register[] register;
+	/**
+	 * 
+	 */
+	public Bookings[] bookings;
 
 	/**
 	 * 
